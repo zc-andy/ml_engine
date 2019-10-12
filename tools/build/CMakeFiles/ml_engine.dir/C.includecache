@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andy/trunk/ml_engine/source/httpparser/picohttpparser.c
+assert.h
+-
+stddef.h
+-
+string.h
+-
+nmmintrin.h
+-
+x86intrin.h
+-
+picohttpparser.h
+/home/andy/trunk/ml_engine/source/httpparser/picohttpparser.h
+
+/home/andy/trunk/ml_engine/source/httpparser/picohttpparser.h
+sys/types.h
+-
+
